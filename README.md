@@ -19,6 +19,12 @@ typing_extensions >=3.7.4
 
 bokeh
 
+BeautifulSoup4
+
+Requests
+
+pandas
+
 html5lib
 
 # Examples of how to use the bokeh module
