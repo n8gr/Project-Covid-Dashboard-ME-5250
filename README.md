@@ -27,5 +27,8 @@ pandas
 
 html5lib
 
+# Example on how to web scrape
+https://medium.com/analytics-vidhya/how-to-scrape-a-table-from-website-using-python-ce90d0cfb607
+
 # Examples of how to use the bokeh module
 https://www.geeksforgeeks.org/python-bokeh-tutorial-interactive-data-visualization-with-bokeh/?tab=article
