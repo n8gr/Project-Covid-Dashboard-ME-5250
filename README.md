@@ -19,5 +19,7 @@ typing_extensions >=3.7.4
 
 bokeh
 
+html5lib
+
 # Examples of how to use the bokeh module
 https://www.geeksforgeeks.org/python-bokeh-tutorial-interactive-data-visualization-with-bokeh/?tab=article
