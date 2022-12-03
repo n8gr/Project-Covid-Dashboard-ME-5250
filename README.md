@@ -7,6 +7,8 @@ Requests
 pandas
 
 html5lib
+
+datetime
 # Libraries to include for data display
 PyYAML>=3.10
 
