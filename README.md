@@ -1,6 +1,13 @@
 # Project-Covid-Dashboard-ME-5250
+# Libraries to include for data scraping
+BeautifulSoup4
 
-# Libraries to include
+Requests
+
+pandas
+
+html5lib
+# Libraries to include for data display
 PyYAML>=3.10
 
 python-dateutil>=2.1
@@ -19,13 +26,6 @@ typing_extensions >=3.7.4
 
 bokeh
 
-BeautifulSoup4
-
-Requests
-
-pandas
-
-html5lib
 
 # Example on how to web scrape
 https://medium.com/analytics-vidhya/how-to-scrape-a-table-from-website-using-python-ce90d0cfb607
