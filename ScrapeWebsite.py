@@ -66,7 +66,7 @@ def scrape_country(CountryInput,WebsiteInput):
 
     # Export to json file with current date
     today_date = str(date.today())
-    file_name = "Covid_data_for_" + CountryInput + "_" + today_date + ".json"
+    file_name = "json_files/Covid_data_for_" + CountryInput + "_" + today_date + ".json"
     output.to_json(file_name)
 
 
