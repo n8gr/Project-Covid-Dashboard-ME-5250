@@ -64,4 +64,14 @@ glob
 
 
 # Steps to run the data_display module
-Step 1:
+Step 1: Install all of the libraries listed above.
+
+Step 2: Download DataDisplay.py file and place in desired location.
+
+Step 3: Create or place a folder named json_files in the same folder as your DataDisplay.py file. This is where the json files get read into the project.
+
+Step 4: To call the module in your project use the DataDisplay.data_display(). The module will than display the following:
+
+        - Graph of the Total and New covid deaths each day(days that are in json files), Graph the Total deaths and new deaths per 1M.
+        
+        - You can toggle between the different plots by selecting the tabs above the graph
