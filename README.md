@@ -42,27 +42,26 @@ Step 6: When you run the function a json file will be saved in your project fold
 Note: There is a "TestScrapeWebsite.py" file above that has the function calls for four countries the USA,China,India, and Mexico you can use this file to test and makes sure the ScrapeWebsite module is working properly and you downloaded all the necessary libraries. 
 
 # Libraries to include for data display
-PyYAML>=3.10
+PyYAML
 
-python-dateutil>=2.1
+python-dateutil
 
-Jinja2>=2.7
+Jinja2
 
-numpy>=1.11.3
+numpy
 
-pillow>=4.0
+pillow
 
-packaging>=16.8
+packaging
 
-tornado>=5
+tornado
 
-typing_extensions >=3.7.4
+typing_extensions 
 
 bokeh
 
+glob
 
-# Example on how to web scrape
-https://medium.com/analytics-vidhya/how-to-scrape-a-table-from-website-using-python-ce90d0cfb607
 
-# Examples of how to use the bokeh module
-https://www.geeksforgeeks.org/python-bokeh-tutorial-interactive-data-visualization-with-bokeh/?tab=article
+# Steps to run the data_display module
+Step 1:
